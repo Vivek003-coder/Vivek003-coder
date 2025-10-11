@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Blockchain**
 
-- 💬 Ask me about **C,Java,HTML,CSS**
+- 💬 Ask me about **C,C++,,Java,HTML,CSS,Javascript**
 
 - 📫 How to reach me **viveksharma80ktr@gmail.com**
 
