@@ -1,68 +1,30 @@
-# 👋 Hey — I’m Vivek Kumar 
+<h1 align="center">Hi 👋, I'm vivek kumar</h1>
+<h3 align="center">Frontend Developer from India | Creating Beautiful & Responsive Websites</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek003-coder&label=Profile%20views&color=0e75b6&style=flat" alt="vivek003-coder" /> </p>
 
-[![Portfolio](https://img.shields.io/badge/portfolio-visit-brightgreen)](https://your-site.example) [![LinkedIn](https://img.shields.io/badge/linkedin-Connect-blue)](https://www.linkedin.com/in/yourprofile) [![Mail](https://img.shields.io/badge/email-hello%40you.com-red)](mailto:hello@you.com)
+<p align="left"> <a href="https://twitter.com/vivekku003" target="blank"><img src="https://img.shields.io/twitter/follow/vivekku003?logo=twitter&style=for-the-badge" alt="vivekku003" /></a> </p>
 
+- 🌱 I’m currently learning **Blockchain**
 
----
+- 💬 Ask me about **C,Java,HTML,CSS**
 
+- 📫 How to reach me **viveksharma80ktr@gmail.com**
 
-## 🎯 About Me
-I design and build reliable, user-friendly web applications and developer tools. I enjoy solving problems at the intersection of design and backend engineering — with a special interest in decentralized certificate verification, farm-tech, and Java systems.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/vivekku003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vivekku003" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vivek kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek kumar" height="30" width="40" /></a>
+<a href="https://fb.com/vivek kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vivek kumar" height="30" width="40" /></a>
+<a href="https://instagram.com/iam_vivek005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam_vivek005" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/vivek_23131012476/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/vivek_23131012476/" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
-- 🔭 **Working on:** Decentralized Certificate Verification System
-- 🌱 **Learning:** Advanced Java, Distributed Systems, Smart Contracts
-- 💬 **Ask me about:** Java, Web Dev (React, Spring), Cloud, Algorithms
-- 📫 **Email:** hello@you.com
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivek003-coder&show_icons=true&locale=en&layout=compact" alt="vivek003-coder" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivek003-coder&show_icons=true&locale=en" alt="vivek003-coder" /></p>
 
----
-
-
-## 🧰 Tech Stack
-**Languages:** Java • JavaScript • HTML • CSS • SQL
-
-
-**Frameworks & Tools:** Spring Boot • React • Node.js • Docker • GitHub Actions • PostgreSQL
-
-
----
-
-
-## 🚀 Featured Projects
-### • Decentralized Certificate Verification — `cert-verifier`
-Tamper-evident certificate issuance & verification (smart-contract + backend + web UI). [Repo link](https://github.com/YOUR_USERNAME/cert-verifier)
-
-
-### • AgriHarvest — `agriharvest`
-Smart crops portal: fertilizer advisory + marketplace for farmers. React + Spring Boot + PostgreSQL. [Repo link](https://github.com/YOUR_USERNAME/agriharvest)
-
-
-### • Student Info System (JSP + Servlets) — `student-info-jsp`
-Classic student management app with CRUD, file upload, sessions. [Repo link](https://github.com/YOUR_USERNAME/student-info-jsp)
-
-
-(Replace links & short descriptions with your actual repo URLs and one-line highlights.)
-
-
----
-
-
-## 📈 GitHub Stats & Languages
-[![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)](https://github.com/YOUR_USERNAME)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)](https://github.com/YOUR_USERNAME)
-
-
----
-
-
-## 📌 How to collaborate
-- Open issues or PRs on any repo — I check issues regularly.
-- Look for labels: `good-first-issue`, `help-wanted`.
-
-
----
-
-
-<p align="center">Made with ❤️ · Java & React · Open for internships & collaborations</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek003-coder&" alt="vivek003-coder" /></p>
