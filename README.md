@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm vivek kumar</h1>
-<h3 align="center">Frontend Developer from India | Creating Beautiful & Responsive Websites</h3>
+<h3 align="center">software Developer from India | Creating Beautiful & Responsive Websites</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek003-coder&label=Profile%20views&color=0e75b6&style=flat" alt="vivek003-coder" /> </p>
 
