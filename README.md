@@ -29,7 +29,7 @@
 ## 👨‍💻 About Me
 - 💻 Focused on **Full Stack Java Development**
 - ⚙️ Building **REST APIs with Spring Boot**
-- 🧠 Solved **300+ DSA problems**
+- 🧠 Solved **350+ DSA problems**
 - 🎯 Target: **Product-based companies**
 
 ---
